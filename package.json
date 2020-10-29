@@ -9,6 +9,10 @@
   },
   "author": "Abhishek Raj <abhishekr@dewsolutions.in>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraj-dew/cors-test.git"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
